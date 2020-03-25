@@ -7,4 +7,4 @@ Java
 
 ## User Interface:
 
-![Alt text](https://github.com/adriantoto/jst-huruf-perceptron-backpropagation/blob/master/ss.JPG)
+![Alt text](https://github.com/adriantoto/jst-huruf-backpropagation/blob/master/5.JPG)
